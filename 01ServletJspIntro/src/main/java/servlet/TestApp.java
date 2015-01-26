@@ -11,8 +11,8 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * First example with a servlet and EL.
- * 
- * @author java
+ *
+ * @author java/Stijn
  *
  */
 // Zorg dat onze pojo als servlet herkend wordt.
