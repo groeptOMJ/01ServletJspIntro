@@ -1,9 +1,13 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<form action="Welkom">
-	<input type=text name=naam />
-	<input type=submit value="test">
-</form>
+<table border="5">
+  <tr><th class="title">Hello world!</th></tr>
+</table>
+<ul>
+<li><a href="welcome">Welcome servlet example.</a></li>
+<li><a href="hello.html">Hello world servlet/EL example.</a></li>
+<li><a href="random-background.jsp">Random Background - jsp expression example.</a></li>
+<li><a href="form.html">Account info servlet/EL example.</a></li>
+</ul>
 </body>
 </html>
