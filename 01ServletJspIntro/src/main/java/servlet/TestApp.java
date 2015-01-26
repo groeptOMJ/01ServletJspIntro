@@ -9,7 +9,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-//Zorg dat onze pojo als servlet herkend wordt.
+/**
+ * First example with a servlet and EL.
+ * 
+ * @author java
+ *
+ */
+// Zorg dat onze pojo als servlet herkend wordt.
 @WebServlet("/Welkom")
 public class TestApp extends HttpServlet {
 	@Override
